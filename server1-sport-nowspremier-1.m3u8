@@ -2,13 +2,14 @@
 #EXT-X-VERSION:3
 # ตัวหลัก (url ที่ 1)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/.m3u8
 # ตัวหลัก (url ที่ 1)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/112195.m3u8
+http://nordicstream.xyz:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=&extension=m3u8
 # ตัวหลัก (url ที่ 1)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://nordicstream.xyz:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=1300228&extension=m3u8
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/112203.m3u8
+#http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/112200.m3u8
 # ตัวหลัก (url ที่ 2)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://kungtv.net:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=1300228&extension=m3u8
