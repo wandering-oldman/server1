@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# ตัวหลัก (url ที่ 1)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://line.greatstar.me:80/play/live.php?mac=A0:BB:3E:BA:F2:D6&stream=1918101&extension=m3u8
