@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 # สำรองชุดเดียวกัน (url ที่ 2)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://119.59.118.159/live/ch54/xxccxgd134/index.m3u8
+http://119.59.118.159/live/ch54/Mariogogo007/index.m3u8
 
 # สำรองลำดับสุดท้าย (url ที่ 3)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://119.59.118.159/live/ch56/xxccxgd134/index.m3u8
+http://119.59.118.159/live/ch56/Mariogogo007/index.m3u8
