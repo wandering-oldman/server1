@@ -1,5 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://45.139.122.199:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=115702&extension=m3u8
-http://45.139.122.199:2095/play/live.php?mac=00:1A:79:AB:EC:E9&stream=115698&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280x720
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776083&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280x720
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776079&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280x720
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776082&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280x720
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776081&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280x720
+http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776080&extension=m3u8
