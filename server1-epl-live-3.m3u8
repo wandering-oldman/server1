@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
+http://sport-birutv.my.id:80/play/live.php?mac=A0:BB:3E:FE:43:81&stream=988364&extension=m3u8
