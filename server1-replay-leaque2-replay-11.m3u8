@@ -4,3 +4,5 @@
 http://sport-birutv.my.id:80/play/live.php?mac=A0:BB:3E:FE:43:81&stream=1038871&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://23232.top:80/play/live.php?mac=00:1A:79:0D:A0:69&stream=1038871&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=1038871&extension=m3u8
