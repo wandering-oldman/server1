@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# ตัวหลัก (url ที่ 1)
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch1
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776122&extension=m3u8
-# ตัวหลัก (url ที่ 2)
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch2
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://sport-birutv.my.id:80/play/live.php?mac=A0:BB:3E:FE:43:81&stream=387390&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=1776122&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=1014235&extension=m3u8
 
