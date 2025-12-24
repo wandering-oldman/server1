@@ -1,4 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=280823&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=280823&extension=m3u8
+# ตัวหลัก (url ที่ 2)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://v3tv.live:80/play/live.php?mac=00:1A:79:F5:5F:02&stream=280823&extension=m3u8&play_token=
+# ตัวหลัก (url ที่ 2)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=1903771&extension=m3u8&play_token=
