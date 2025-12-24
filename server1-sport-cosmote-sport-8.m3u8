@@ -23,7 +23,7 @@ http://nordicone.eu:2095/play/live.php?mac=10:27:BE:40:09:85&stream=87286&extens
 http://vip.4kiptv.pro:2095/play/live.php?mac=10:27:BE:15:40:c4&stream=87286&extension=m3u8
 # ตัวหลัก (url ที่ 8)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch8
-http://superbits.tv:2095/play/live.php?mac=10:27:BE:24:76:b9&stream=87286&extension=m3u8
+http://superbits.tv:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=87286&extension=m3u8
 # ตัวหลัก (url ที่ 9)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=ch9
 http://mypanel.be:2095/play/live.php?mac=10:27:BE:25:c4:a0&stream=87286&extension=m3u8
