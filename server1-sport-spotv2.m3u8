@@ -1,22 +1,22 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:29:00:13&stream=115305&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115305&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776069&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776069&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=1776069&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:76:b9&stream=115305&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115305&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776068&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776068&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=1776068&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:40:09:85&stream=115305&extension=m3u8
@@ -25,7 +25,7 @@ http://45.139.122.199:2095/play/live.php?mac=10:27:BE:40:09:85&stream=115305&ext
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776067&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776067&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=1776067&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:2f:4b:86&stream=115305&extension=m3u8
@@ -50,7 +50,7 @@ http://mypanel.be:2095/play/live.php?mac=10:27:BE:26:7a:f2&stream=115305&extensi
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://ultratv.one:2095/play/live.php?mac=10:27:BE:05:3c:ac&stream=115305&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:29:00:13&stream=115686&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115686&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:29:00:13&stream=115433&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115433&extension=m3u8
