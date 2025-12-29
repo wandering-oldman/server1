@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# ตัวหลัก (url ที่ 1)
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115541&extension=m3u8
+
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115541&extension=m3u8
 # ตัวหลัก (url ที่ 4)
@@ -9,6 +12,9 @@ http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=177620
 # ตัวหลัก (url ที่ 5)
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://egaletv.cc:80/play/live.php?mac=00:1A:79:D9:5A:A8&stream=1776201&extension=m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115535&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115541&extension=m3u8
