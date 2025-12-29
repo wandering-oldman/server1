@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# ตัวหลัก (url ที่ 1)
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115304&extension=m3u8
+
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776065&extension=m3u8
 
@@ -8,7 +10,17 @@ http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=177606
 http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115304&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=1776065&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776065&extension=m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115427&extension=m3u8
+
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:20:50&stream=115682&extension=m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1163886&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115304&extension=m3u8
@@ -17,7 +29,7 @@ http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=115304&ext
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776064&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=1776064&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776064&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:40:09:85&stream=115304&extension=m3u8
@@ -26,7 +38,7 @@ http://45.139.122.199:2095/play/live.php?mac=10:27:BE:40:09:85&stream=115304&ext
 http://stalker.klma2023.net:80/play/live.php?mac=00:1B:79:F8:59:0E&stream=1776063&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=1776063&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1776063&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:2f:4b:86&stream=115304&extension=m3u8
