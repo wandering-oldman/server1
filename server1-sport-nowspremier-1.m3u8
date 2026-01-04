@@ -2,5 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/112200.m3u8
+
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://JiiiIIIlllLLav.funtogether.xyz:8080/live/VmEsRSIUPN/zRKl9S7DYg/112200?play_token=rv1g3Oipcr
+http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=313823&extension=m3u8
