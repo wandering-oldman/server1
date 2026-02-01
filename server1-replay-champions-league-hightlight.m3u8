@@ -1,5 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:E9:3E:BE&stream=1694308&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:E9:3E:BE&stream=1038910&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:E9:3E:BE&stream=1694308&extension=m3u8
