@@ -8,7 +8,7 @@ http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=1309856&ex
 http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=264397&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=1903769&extension=m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=1903776&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://fastopen.live:8080/live/Georrgegov/zTjKE76BRe/112230.m3u8
@@ -23,7 +23,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314078&
 http://filex.me:8080/live/MAS101A/MAS101AABB/495231.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://5startv.xyz:8080/live/FredaM/MLK329/110289.m3u8
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=1903769&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://213.176.3.65:8080/live/COOPERath/w3EBgdaXF0/110289.m3u8
