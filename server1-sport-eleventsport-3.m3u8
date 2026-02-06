@@ -7,6 +7,9 @@ http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=1530159&exten
 http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=26527&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264895&extension=m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://line.greatstar.me:80/play/live.php?mac=00:1B:79:F9:2B:56&stream=880315&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
