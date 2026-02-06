@@ -2,3 +2,15 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=880467&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=54164&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=27677&extension=m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=880467&extension=m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=1530210&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream1530210&extension=m3u8
