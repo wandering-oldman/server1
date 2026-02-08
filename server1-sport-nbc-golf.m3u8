@@ -2,16 +2,22 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=2116052&extension=m3u8
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:B1:57:78&stream=45554&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=1236224&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=2116052&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=941562&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:B1:57:78&stream=45532&extension=m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://1tv41.icu:8080/live/8uhWMT/732370/9806.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://45.139.122.199:2095/play/live.php?mac=00:1A:79:0C:C0:CB&stream=2116052&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:31:e3&stream=2116052&extension=m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=2116052&extension=m3u8
