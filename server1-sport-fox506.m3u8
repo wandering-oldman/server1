@@ -10,6 +10,9 @@ http://185.191.127.129:2095/play/live.php?mac=10:27:BE:50:77:30&stream=141759&ex
 http://45.139.122.199:2095/play/live.php?mac=0:1A:79:AB:EC:E9&stream=141759&extension=m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/141759.m3u8
+
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=646966&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://viafnatt.tv:2095/play/live.php?mac=10:27:BE:40:09:85&stream=1061809&extension=m3u8
