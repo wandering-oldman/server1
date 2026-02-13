@@ -3,4 +3,6 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
 http://v3tv.live:80/play/live.php?mac=00:1A:79:05:8B:80&stream=30559&extension=m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:0C:C0:CB&stream=30559&extension=m3u8
+http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=30559&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:57:A2:C5&stream=263397&extension=m3u8
