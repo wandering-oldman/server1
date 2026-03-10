@@ -1,4 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
+
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:B6:5E:9B&stream=1849866&extension=m3u8
+http://sport-birutv.my.id:80/play/live.php?mac=00:1A:79:B5:F9:8F&stream=1849866&extension=m3u8
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://alpha-2ott.me:80/play/live.php?mac=00:1B:79:1C:1D:F6&stream=1530206&extension=m3u8
