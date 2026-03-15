@@ -5,9 +5,9 @@ https://stereomax.shop/dookeela/history/chunks.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 https://az-id.dontblockmeplease.shop/edge/history/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xMS8yMDI2LCA0OjE5OjQ2IFBNJmhhc2hfdmFsdWU9YkxhS0c2bWcvTUtRTEJzRnRGZXdhUT09JnZhbGlkbWludXRlcz0xJmlkPWM0N2U0YTZkMzk0NTEyZDk5MTE3ZWE0YTdlZTc4OTk0JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0yMQ==
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-#http://45.139.122.199:2095/play/live.php?mac=10:27:BE:29:00:13&stream=115710&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:29:00:13&stream=115710&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-#http://45.139.122.199:2095/play/live.php?mac=10:27:BE:29:00:13&stream=115711&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:29:00:13&stream=115711&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-#http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115715.m3u8
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/115715.m3u8
 
